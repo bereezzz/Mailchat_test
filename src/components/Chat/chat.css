@@ -1,0 +1,19 @@
+.newM{
+    display: flex;
+    width: 100%;
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    background: var(--system-colors-bg-selected, rgba(64, 126, 201, 0.08));
+    color: var(--system-colors-action, #407EC9);
+    text-align: center;
+    /* Metadata */
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 133.333% */
+}

@@ -1,0 +1,24 @@
+.timeInChat{
+    display: inline-flex;
+padding: 8px 12px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 4px;
+background: var(--system-colors-bg-selected, rgba(64, 126, 201, 0.08));
+color: var(--text-100, #201F1E);
+text-align: right;
+
+
+/* Metadata */
+font-family: Lato;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.333% */
+}
+.timeBlock{
+width: 100%;
+display: flex;
+justify-content: center;
+padding:10px;
+}

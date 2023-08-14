@@ -1,0 +1,26 @@
+.header{
+display: flex;
+width: 100%;
+padding: 0px 16px;
+align-items: center;
+gap: 16px;
+background: #FFF;
+box-shadow: 0px -1px 0px 0px rgba(32, 31, 30, 0.12) inset;
+}
+.textBlockHeader{
+    display: flex;
+padding: 20px 16px 20px 0px;
+align-items: center;
+gap: 8px;
+
+}
+.nameChatHeader{
+    color: var(--themes-white-bright-theme-colors-text-ext-100, #201F1E);
+
+/* Header bold */
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 133.333% */
+}
