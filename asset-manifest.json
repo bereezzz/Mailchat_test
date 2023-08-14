@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mailchat_test/static/css/main.c43fccd5.css",
+    "main.js": "/Mailchat_test/static/js/main.e2d72c70.js",
+    "static/js/787.f2b5b0dd.chunk.js": "/Mailchat_test/static/js/787.f2b5b0dd.chunk.js",
+    "index.html": "/Mailchat_test/index.html",
+    "main.c43fccd5.css.map": "/Mailchat_test/static/css/main.c43fccd5.css.map",
+    "main.e2d72c70.js.map": "/Mailchat_test/static/js/main.e2d72c70.js.map",
+    "787.f2b5b0dd.chunk.js.map": "/Mailchat_test/static/js/787.f2b5b0dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c43fccd5.css",
+    "static/js/main.e2d72c70.js"
+  ]
+}
