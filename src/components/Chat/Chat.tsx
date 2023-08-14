@@ -38,6 +38,7 @@ export const Chat: FC<Chat> = ({ nameChat, id }) => {
         justifyContent: "flex-end",
       }}
     >
+      {/* тестовое изменение для пейджес */}
       <Header nameChat={nameChat}/> 
       <div
         style={{
